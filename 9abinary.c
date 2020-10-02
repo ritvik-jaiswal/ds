@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<stdlib.h>
 int bs(int a[],int key,int l,int h)
 {
 int mid;
@@ -27,9 +26,8 @@ int key,*a,i,n,res,rp,p;
  if(a[i]<a[i+1])
  p++;
  if(p==n-1)
- printf("stored in ascending order\n");
  else
- {printf("not stored,enter in ascending order\n");
+ {
  goto AGAIN;}
  printf("Enter the key to be searched\n");
  scanf("%d",&key);
