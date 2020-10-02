@@ -56,8 +56,6 @@ compute_total_sal(struct employee*e,char dn[],int m)
 }
 		if(flag==0)
 
-		      printf("\n no such department\n");
 		else
-		      printf("\n total salary of employee in department %s is %f",dn,totalsal);
 }
 
