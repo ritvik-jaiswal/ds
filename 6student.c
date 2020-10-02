@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
-# define size 5
+
 struct student
   {
   char name[20];
