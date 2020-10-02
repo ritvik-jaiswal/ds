@@ -88,7 +88,7 @@ void main()
         break;
    case 3 :display();
         break;
-   default:return;
+   default:Printf("wrong option selected \n");
 }
 }
 }
