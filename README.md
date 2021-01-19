@@ -1,2 +1,1 @@
-#dslab files
-> here lies the lab files for dslab files
+This repo contains the basic codes of data structure and some basic algos.
